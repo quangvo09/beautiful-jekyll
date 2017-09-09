@@ -6,8 +6,4 @@ tag:
   - vps
   - git
   - deploy
-tags:
-  - VPS
-  - git
-  - deploy
 ---
