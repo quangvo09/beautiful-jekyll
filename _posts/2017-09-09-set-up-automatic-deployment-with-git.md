@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Set Up Automatic Deployment with Git '
 ---
 
