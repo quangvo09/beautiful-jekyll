@@ -3,8 +3,6 @@ layout: post
 title: Moving Git repository to another repository
 subtitle: Moving Git
 published: true
-Tags:
-  - Git
 tags:
   - Git
 ---
