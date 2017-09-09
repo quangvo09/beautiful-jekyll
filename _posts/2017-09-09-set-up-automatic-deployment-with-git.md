@@ -49,3 +49,21 @@ In order to execute the file, we need to set the proper permissions using:
 ```
 chmod +x post-receive
 ```
+
+***Local Machine***
+
+Create your repo:
+
+```
+cd /my/workspace
+mkdir project && cd project
+git init
+```
+
+Then we need to configure the remote path of our repository. Tell Git to add a remote called 'live':
+
+```
+git remote add live ssh://user@mydomain.com/var/repo/site.git
+```
+
+Here we should give the repository link and not the live folder.
