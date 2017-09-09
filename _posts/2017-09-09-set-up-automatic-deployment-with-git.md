@@ -19,4 +19,4 @@ mkdir repo && cd repo
 mkdir site.git && cd site.git
 git init --bare
 ```
-# --bare means that our folder will have no source files, just the version control.
+- --bare means that our folder will have no source files, just the version control.
