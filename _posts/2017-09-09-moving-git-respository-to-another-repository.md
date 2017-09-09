@@ -7,9 +7,9 @@ published: true
 ---
 
 1. First, we have to fetch all of the remote branches and tags from the existing repository to our local index: 
- ~~~
+ {% highlight javascript linenos %}
  git fetch origin
- ~~~
+ {% endhighlight %}
 
 
 2. We can check for any missing branches that we need to create a local copy of: 
