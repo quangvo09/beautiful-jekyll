@@ -41,5 +41,3 @@ published: true
  ~~~
  git remote rename new-origin origin
  ~~~
-
---Done
