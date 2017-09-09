@@ -66,7 +66,7 @@ Then we need to configure the remote path of our repository. Tell Git to add a r
 git remote add live ssh://user@mydomain.com/var/repo/site.git
 ```
 
-Here we should give the repository link and not the live folder.
+Here we should give the repository link and **NOT** the live folder.
 
 Let's assume that we have some great work ready in this folder. We should do the usual steps of adding the files and commit with a message:
 
