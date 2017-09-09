@@ -67,3 +67,13 @@ git remote add live ssh://user@mydomain.com/var/repo/site.git
 ```
 
 Here we should give the repository link and not the live folder.
+
+Let's assume that we have some great work ready in this folder. We should do the usual steps of adding the files and commit with a message:
+
+```
+git add .
+git commit -m "My project is ready"
+git push live master
+```
+
+Here we tell Git to push to the 'live' remote on the 'master' branch.
