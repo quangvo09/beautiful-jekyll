@@ -4,6 +4,8 @@ title: Moving Git repository to another repository
 subtitle: Moving Git
 bigimg: /img/atlassian-getting-git-right.jpg
 published: true
+Tags:
+  - Git
 ---
 
 1. First, we have to fetch all of the remote branches and tags from the existing repository to our local index: 
