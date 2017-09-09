@@ -8,7 +8,7 @@ tag:
   - Deploy
 ---
 ***Server Setup***
-1. Your server live directory: /var/www/domain.com
+1. Your server live directory: ```/var/www/domain.com```
 2. Your server repository: /var/repo/site.git
 
 ***Creating Our Repository***
