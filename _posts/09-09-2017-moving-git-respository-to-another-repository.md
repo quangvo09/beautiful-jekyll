@@ -5,6 +5,7 @@ subtitle: Moving Git
 bigimg: /img/path.jpg
 published: true
 date: '2017-09-09'
+tags: [git]
 ---
 
 1. First, we have to fetch all of the remote branches and tags from the existing repository to our local index:
