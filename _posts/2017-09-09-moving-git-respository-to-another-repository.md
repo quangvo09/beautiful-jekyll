@@ -49,10 +49,4 @@ Rename new-origin to just origin, so that it becomes the default remote:
  ~~~
  git remote rename new-origin origin
  ~~~
-
-
-
-6. Rename new-origin to just origin, so that it becomes the default remote: 
- ~~~
- git remote rename new-origin origin
- ~~~
+ 
