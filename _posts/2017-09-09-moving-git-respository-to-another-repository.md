@@ -2,7 +2,7 @@
 layout: post
 title: Moving Git repository to another repository
 subtitle: Moving Git
-bigimg: /img/path.jpg
+bigimg: /img/atlassian-getting-git-right.jpg
 published: true
 ---
 
