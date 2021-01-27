@@ -5,4 +5,6 @@
   xhr.setRequestHeader("x-csrf-token", _csrfToken);  
   xhr.setRequestHeader('Content-Type', 'application/json');
   xhr.send(JSON.stringify({}));
+  
+  console.log("done")
 })();
